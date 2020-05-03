@@ -58,8 +58,5 @@ function playSound(key) {
 			kick.play();
 			break;
 
-		default:
-			console.log(buttonInnerHTML);
-			break;
 	}
 }
