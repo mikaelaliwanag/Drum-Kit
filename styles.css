@@ -1,12 +1,12 @@
 body {
   text-align: center;
   background-color: #2a2b31;
+  font-family: "Arvo", cursive;
 }
 
 h1 {
   font-size: 5.2rem;
   color: #cde6f0;
-  font-family: "Arvo", cursive;
   text-shadow: 3.5px 0 #e960d7;
 
 }
@@ -58,7 +58,6 @@ h1 {
   outline: none;
   border: 10px solid #aac2d8;
   font-size: 5rem;
-  font-family: 'Arvo', cursive;
   line-height: 2;
   font-weight: 900;
   color: #da6ecb;
@@ -70,4 +69,10 @@ h1 {
   text-align: center;
   margin: 10px;
   background-color: white;
+}
+
+footer {
+   color: #aac2d8;
+   margin: 2rem auto;
+   font-size: 17px;
 }
