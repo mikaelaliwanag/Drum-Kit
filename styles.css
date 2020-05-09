@@ -11,6 +11,11 @@ h1 {
 
 }
 
+p {
+  color: #b9d4df;
+  font-size: 18px;
+}
+
 .bongo-cat {
   width: 8%;
   position: relative;
@@ -46,7 +51,7 @@ h1 {
 }
 
 .set {
-  margin: 10% auto;
+  margin: 5% auto 7%;
 }
 
 .pressed {
@@ -73,6 +78,5 @@ h1 {
 
 footer {
    color: #aac2d8;
-   margin: 2rem auto;
    font-size: 17px;
 }
