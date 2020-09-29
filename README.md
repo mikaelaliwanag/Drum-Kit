@@ -1,5 +1,5 @@
 # Drum-Kit
-Simple drum kit using Javascript click and keypress events. https://mikaelaliwanag.github.io/Drum-Kit/
+Simple drum kit using Javascript https://mikaelaliwanag.github.io/Drum-Kit/
 
 ![Screenshot (14)](https://user-images.githubusercontent.com/60859812/94498720-b1462180-01af-11eb-99ba-6dd3b176ad93.png)
 
